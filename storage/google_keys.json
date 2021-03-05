@@ -1,0 +1,13 @@
+{
+    "web": {
+        "client_id": "869357463003-905v15qb9icvt17cu1dtpfq0rsjq55ml.apps.googleusercontent.com",
+        "project_id": "dukas-306714",
+        "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+        "token_uri": "https://oauth2.googleapis.com/token",
+        "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+        "client_secret": "0TBtCo2gVrWyVIdbagHQerro",
+        "redirect_uris": [
+            "http://localhost/marcusgaius/dukas_yt/"
+        ]
+    }
+}

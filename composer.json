@@ -1,0 +1,22 @@
+{
+    "name": "marcusgaius/yt-data",
+    "description": "Lorem Ipsum",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "MarcusGaius",
+            "email": "metalmorgoth@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "google/apiclient": "^2.9",
+        "nesbot/carbon": "3.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "MarcusGaius\\YTData\\": "src/"
+        }
+    }
+}
